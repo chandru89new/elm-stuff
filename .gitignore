@@ -1,0 +1,7 @@
+elm-stuff
+elm-stuff/*
+node_modules
+node_modules/*
+.parcel-cache/*
+dist/*
+dist
